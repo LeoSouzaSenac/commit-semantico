@@ -1,7 +1,7 @@
-function somar(num1, num2){
-    return num1 + num2;
+function sum(a, b){
+    return a + b;
 }
 
-function subtrair(num1, num2){
-    return num1 - num2;
+function subtract(a, b){
+    return a - b;
 }
